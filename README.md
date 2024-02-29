@@ -29,7 +29,7 @@
 ### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=#787CB4)&nbsp;
-![ReactNative](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=php&logoColor=#787CB4)&nbsp;
+![ReactNative](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=#787CB4)&nbsp;
 
 
   <div align="center">
